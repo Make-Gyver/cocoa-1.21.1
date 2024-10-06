@@ -3,15 +3,15 @@
 	"id": "cocoa",
 	"version": "${version}",
 	"name": "Cocoa",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Cocoa is tasty! And healty - at least in our mod.",
 	"authors": [
-		"Me!"
+		"Maxim"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": "https://github.com/Make-Gyver/cocoa-1.21.1"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/cocoa/icon.png",
 	"environment": "*",
 	"entrypoints": {
